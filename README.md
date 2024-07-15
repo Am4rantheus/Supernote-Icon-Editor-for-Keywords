@@ -19,7 +19,7 @@ To create custom keywords per icon:
 ![Screenshot 2024-07-15 200205](https://github.com/user-attachments/assets/50fc1cf4-e8cc-41ed-80f1-3b7ddb5a46cd)
 ![Screenshot 2024-07-15 200249](https://github.com/user-attachments/assets/96acd68b-686a-41ec-83b8-245de411800f)
 
-4. Resize icon to original size (check if keyword is still recognized correctly). Copy it to your notes.
+4. Resize icon to original size (check if keyword is still recognized correctly). To use it, copy it to your notes and set the keyword, done.
 
 
 
